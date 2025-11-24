@@ -1,7 +1,7 @@
 
-# 🚀 Spring AI with GenAI Lab
+# 🧠 Spring AI with GenAI Lab
 
-이 레포지토리는 **Spring AI와 Google GenAI 기반 프로젝트를 준비하기 위해 직접 구성한 실습(Lab) 환경**입니다.
+이 레포지토리는 **Spring AI와 Google GenAI 기반 프로젝트를 위해 직접 구성한 Lab 환경**입니다.
 
 학습 과정에서 서적 **[이것이 Spring AI다](https://product.kyobobook.co.kr/detail/S000217369517)** 를 참고하였으며, 교재의 흐름을 기반으로 하되 **GenAI 환경에 맞게 구조를 재해석하고 확장**하는 데에 초점을 두었습니다.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔄 주요 구성 및 설계 방향
+## 🏗️ 주요 구성 및 설계 방향
 
 * 이 Lab에서는 모든 기능이 **실제 서비스 개발에 가까운 단일 프로젝트 구조로 구현**
 * Google GenAI API 흐름에 맞춰 컨트롤러·서비스 구조를 재설계
@@ -27,7 +27,7 @@
 
 ---
 
-## ▶ 실행 방법
+## ▶️ 실행 방법
 
 ```bash
 cd demo
@@ -38,5 +38,5 @@ cd demo
 
 ## 📌 참고 자료
 
-- 📘 **이것이 Spring AI다** — 교보: https://product.kyobobook.co.kr/detail/S000217369517
-- 📘 **이것이 Spring AI다(예제 코드 확인 가능)** — 한빛: https://www.hanbit.co.kr/store/books/look.php?p_code=B1665872775
+- **이것이 Spring AI다** — 교보: https://product.kyobobook.co.kr/detail/S000217369517
+- **이것이 Spring AI다(예제 코드 확인 가능)** — 한빛: https://www.hanbit.co.kr/store/books/look.php?p_code=B1665872775
